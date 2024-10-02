@@ -31,7 +31,7 @@ sudo apt install lightdm
 ```
 sudo apt install x11vnc
 ````
-6 - Configurar o serviço do VNC, definir senha.
+#### 6 - Configurar o serviço do VNC, definir senha.
 >Use o seguinte comando para criar o arquivo
 ````
 sudo nano /lib/systemd/system/x11vnc.service
@@ -72,5 +72,9 @@ systemctl start x11vnc.service
 systemctl status x11vnc.service
 ````
 ![Imagem4](https://github.com/user-attachments/assets/278d2938-5efc-40e3-a3bd-f82da0a9edc2)
- 
+
+
+#### Sucesso!
+
+[]`s TiagoRFM
 
