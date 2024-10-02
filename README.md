@@ -2,6 +2,8 @@
 
 Neste passo a passo você irá aprender como realizar a instalação e configuração do acerro remoto através do VNC.
 
+##### [Neste link está disponível do passo a passo em vídeo](https://www.youtube.com/watch?v=A7R-mZQdtuA)
+
 ## Prepatar o Ubuntu para instalação:
 
 #### 1 – Atualizar o Ubuntu
