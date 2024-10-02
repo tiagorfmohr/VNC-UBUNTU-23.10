@@ -13,7 +13,7 @@ sudo apt update
 sudo apt install lightdm
 ```
 3 - Aceitar para continuar com o download e a instalação, então será exibido o menu:
-<img src="/VNC-UBUNTU-23.10/Imagem1.png">
+![Imagem1](https://github.com/user-attachments/assets/403ca6f6-2855-47b1-a9f3-8181677765d5)
 Selecionamos “lightdm” e continuamos a instalação. O objetivo do Lightdm é ser o padrão para o sistema de janelas X11
 
 4 - Após isso reiniciamos o sistema para finalizar o processo, acessamos a tela de login, onde devemos selecionar Ubuntu on Xorg;
